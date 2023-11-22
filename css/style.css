@@ -262,6 +262,10 @@ img:hover {
   
 @media screen and (min-width: 600px){
 
+    a[href="#skip"] {
+        font-size: 20px;
+    }
+
     #dogname, #destination, #food {
         visibility: visible;
         display: contents;
